@@ -122,7 +122,7 @@ slackclient==1.0.9
 testpath==0.3.1
 tornado==4.5.2
 traitlets==4.3.2
-urllib3==1.22
+urllib3==1.26.5
 utils==0.9.0
 w3lib==1.19.0
 waitress==1.1.0
